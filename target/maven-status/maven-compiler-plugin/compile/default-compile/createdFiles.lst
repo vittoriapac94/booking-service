@@ -1,0 +1,9 @@
+com/vipac/bookingservice/domains/Aula.class
+com/vipac/bookingservice/config/PageConfig.class
+com/vipac/bookingservice/repositories/AulaRepository.class
+com/vipac/bookingservice/BookingServiceApplication.class
+com/vipac/bookingservice/controllers/AulaController.class
+com/vipac/bookingservice/services/AulaService.class
+com/vipac/bookingservice/domains/Lezione.class
+com/vipac/bookingservice/config/ValidationConfig.class
+com/vipac/bookingservice/domains/User.class
